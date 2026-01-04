@@ -17,7 +17,7 @@ enabled_modules: [
 ]
 
 # Host-specific packages
-packages: []
+packages: [ ]
 
 # Exclude packages from base or modules
 exclude: []
