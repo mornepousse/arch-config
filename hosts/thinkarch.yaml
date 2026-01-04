@@ -3,6 +3,7 @@ description: ''
 import: []
 enabled_modules:
 - cli-tools
+- dev
 packages: []
 exclude: []
 additional_packages: []
