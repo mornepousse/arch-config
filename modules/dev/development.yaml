@@ -1,10 +1,7 @@
 description: Development tools including IDEs and browsers
 
-packages:
-  - android-studio
-  - code
-  - zed
-  - chromium
+packages: 
+  - code  
   - clang
   - cmake
   - ninja
@@ -16,10 +13,11 @@ packages:
   - xz
   - zip
   - glu
-  - helix
-  - claude-code
+  - helix 
   - yazi
   - opencode
   - tmux
+  - visual-studio-code-bin
+  - jetbrains-toolbox
 
 conflicts: []
