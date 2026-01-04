@@ -30,7 +30,7 @@
     "bar": {
         "backgroundOpacity": 0.93,
         "capsuleOpacity": 1,
-        "density": "comfortable",
+        "density": "default",
         "exclusive": true,
         "floating": true,
         "marginHorizontal": 0.87,
@@ -179,7 +179,7 @@
         "generateTemplatesForPredefined": true,
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
-        "matugenSchemeType": "scheme-tonal-spot",
+        "matugenSchemeType": "scheme-rainbow",
         "predefinedScheme": "Catppuccin",
         "schedulingMode": "off",
         "useWallpaperColors": true
@@ -283,7 +283,7 @@
         "colorizeIcons": false,
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
-        "enabled": true,
+        "enabled": false,
         "floatingRatio": 0.68,
         "inactiveIndicators": false,
         "monitors": [
@@ -516,7 +516,7 @@
     "ui": {
         "boxBorderEnabled": false,
         "fontDefault": "MesloLGL Nerd Font",
-        "fontDefaultScale": 1,
+        "fontDefaultScale": 0.9,
         "fontFixed": "MesloLGM Nerd Font",
         "fontFixedScale": 1,
         "panelBackgroundOpacity": 0.62,
@@ -525,7 +525,7 @@
         "tooltipsEnabled": true
     },
     "wallpaper": {
-        "directory": "/home/mae/.config/arch-config/wallpapers",
+        "directory": "/home/mae/Pictures/Wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
