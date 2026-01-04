@@ -1,0 +1,10 @@
+description: "Main Module to source other yaml files for cli tools"
+
+conflicts: []
+
+hooks_behavior: once # or "always", "skip", "once" (default)
+
+# Optional: Explicit list of package files to load (empty = auto-discover)
+package_files:
+  - chaotic-aur.yaml
+  - cli-apps.yaml

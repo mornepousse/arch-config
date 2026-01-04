@@ -1,0 +1,345 @@
+description: Packages installed manually on the system (auto-synced by dcli)
+packages:
+- acpid
+- adapta-gtk-theme
+- alacritty
+- archlinux-xdg-menu
+- baobab
+- blueman
+- bluetui
+- bluez
+- bluez-utils
+- boost
+- breeze
+- bridge-utils
+- btop
+- btrfs-progs
+- cava
+- ccache
+- chaotic-keyring
+- chaotic-mirrorlist
+- cliphist
+- name: com.heroicgameslauncher.hgl
+  type: flatpak
+- name: com.jeffser.Pigment
+  type: flatpak
+- name: com.ktechpit.ultimate-media-downloader
+  type: flatpak
+- name: com.rtosta.zapzap
+  type: flatpak
+- name: com.sweethome3d.Sweethome3d
+  type: flatpak
+- name: com.usebottles.bottles
+  type: flatpak
+- name: com.vivaldi.Vivaldi
+  type: flatpak
+- cups
+- cups-pdf
+- dcli-arch-git
+- decibels
+- dfu-util
+- discord
+- discover
+- displaylink
+- dnsmasq
+- dolphin
+- dosfstools
+- dotnet-runtime-8.0
+- dotnet-runtime-bin
+- dotnet-sdk-bin
+- dotnet-source-built-artifacts-8.0
+- dotnet-targeting-pack-8.0
+- efibootmgr
+- epiphany
+- evdi-dkms-git
+- exfat-utils
+- eza
+- figlet
+- firefox
+- name: fr.handbrake.ghb
+  type: flatpak
+- fzf
+- gamescope
+- gdm
+- gnome-boxes
+- gnome-calculator
+- gnome-color-manager
+- gnome-control-center
+- gnome-disk-utility
+- gnome-font-viewer
+- gnome-keyring
+- gnome-logs
+- gnome-session
+- gnome-settings-daemon
+- gnome-shell
+- gnome-software
+- gnome-tweaks
+- grilo-plugins
+- gst-plugin-pipewire
+- gum
+- gutenprint
+- gvfs
+- gvfs-afc
+- gvfs-dnssd
+- gvfs-goa
+- gvfs-google
+- gvfs-gphoto2
+- gvfs-mtp
+- gvfs-nfs
+- gvfs-onedrive
+- gvfs-smb
+- gvfs-wsdd
+- hyprlock
+- hyprpaper
+- hyprpicker
+- hyprshade
+- inkscape
+- inotify-tools
+- intel-media-driver
+- intel-ucode
+- name: io.github.KangLin.SerialPortAssistant
+  type: flatpak
+- name: io.github.mrvladus.List
+  type: flatpak
+- iwd
+- jdk17-jetbrains-bin
+- jdk17-openjdk
+- jq
+- kanshi
+- lazydocker
+- lazygit
+- lf
+- libpulse
+- libslirp
+- libva-intel-driver
+- linux
+- linux-headers
+- loupe
+- lutris
+- malcontent
+- mono
+- nautilus
+- neovim
+- noto-fonts
+- ntfs-3g
+- nwg-dock-hyprland
+- nwg-look
+- openbsd-netcat
+- openssh
+- orca
+- name: org.DolphinEmu.dolphin-emu
+  type: flatpak
+- name: org.ardour.Ardour
+  type: flatpak
+- name: org.filezillaproject.Filezilla
+  type: flatpak
+- name: org.freedesktop.LinuxAudio.Plugins.TAP
+  type: flatpak
+- name: org.freedesktop.LinuxAudio.Plugins.swh
+  type: flatpak
+- name: org.freedesktop.Platform
+  type: flatpak
+- name: org.freedesktop.Platform
+  type: flatpak
+- name: org.freedesktop.Platform.Compat.i386
+  type: flatpak
+- name: org.freedesktop.Platform.GL.default
+  type: flatpak
+- name: org.freedesktop.Platform.GL.default
+  type: flatpak
+- name: org.freedesktop.Platform.GL.default
+  type: flatpak
+- name: org.freedesktop.Platform.GL.default
+  type: flatpak
+- name: org.freedesktop.Platform.GL.default
+  type: flatpak
+- name: org.freedesktop.Platform.GL.default
+  type: flatpak
+- name: org.freedesktop.Platform.GL32.default
+  type: flatpak
+- name: org.freedesktop.Platform.GL32.default
+  type: flatpak
+- name: org.freedesktop.Platform.VAAPI.Intel
+  type: flatpak
+- name: org.freedesktop.Platform.VAAPI.Intel
+  type: flatpak
+- name: org.freedesktop.Platform.VAAPI.Intel
+  type: flatpak
+- name: org.freedesktop.Platform.VAAPI.Intel.i386
+  type: flatpak
+- name: org.freedesktop.Platform.codecs-extra
+  type: flatpak
+- name: org.freedesktop.Platform.codecs_extra.i386
+  type: flatpak
+- name: org.freedesktop.Platform.ffmpeg-full
+  type: flatpak
+- name: org.freedesktop.Platform.ffmpeg-full
+  type: flatpak
+- name: org.freedesktop.Platform.openh264
+  type: flatpak
+- name: org.freedesktop.Platform.openh264
+  type: flatpak
+- name: org.freedesktop.Sdk
+  type: flatpak
+- name: org.gnome.Epiphany.Devel
+  type: flatpak
+- name: org.gnome.Platform
+  type: flatpak
+- name: org.gnome.Platform
+  type: flatpak
+- name: org.gnome.Platform
+  type: flatpak
+- name: org.gtk.Gtk3theme.Adapta-Nokto-Eta
+  type: flatpak
+- name: org.gtk.Gtk3theme.Adwaita-dark
+  type: flatpak
+- name: org.kde.KStyle.Adwaita
+  type: flatpak
+- name: org.kde.KStyle.Adwaita
+  type: flatpak
+- name: org.kde.KStyle.Adwaita
+  type: flatpak
+- name: org.kde.Platform
+  type: flatpak
+- name: org.kde.Platform
+  type: flatpak
+- name: org.kde.Platform
+  type: flatpak
+- name: org.kde.Platform
+  type: flatpak
+- name: org.kde.PlatformTheme.QGnomePlatform
+  type: flatpak
+- name: org.kde.Sdk
+  type: flatpak
+- name: org.kde.WaylandDecoration.QAdwaitaDecorations
+  type: flatpak
+- name: org.kde.WaylandDecoration.QGnomePlatform-decoration
+  type: flatpak
+- name: org.kde.kate
+  type: flatpak
+- name: org.kde.konversation
+  type: flatpak
+- name: org.kicad.KiCad
+  type: flatpak
+- name: org.kicad.KiCad.Library.Footprints
+  type: flatpak
+- name: org.kicad.KiCad.Library.Packages3D
+  type: flatpak
+- name: org.kicad.KiCad.Library.Symbols
+  type: flatpak
+- name: org.kicad.KiCad.Library.Templates
+  type: flatpak
+- name: org.nmap.Zenmap
+  type: flatpak
+- name: org.onlyoffice.desktopeditors
+  type: flatpak
+- name: org.remmina.Remmina
+  type: flatpak
+- name: org.winehq.Wine.gecko
+  type: flatpak
+- name: org.winehq.Wine.mono
+  type: flatpak
+- otf-font-awesome
+- pacseek
+- papers
+- papirus-icon-theme
+- pipewire
+- pipewire-alsa
+- pipewire-jack
+- pipewire-pulse
+- playerctl
+- polkit-gnome
+- power-profiles-daemon
+- pyenv
+- python-pip
+- python-pywalfox
+- python-screeninfo
+- qt5-3d
+- qt5-declarative
+- qt5-gamepad
+- qt5-graphicaleffects
+- qt5-imageformats
+- qt5-location
+- qt5-multimedia
+- qt5-networkauth
+- qt5-quickcontrols
+- qt5-quickcontrols2
+- qt5-script
+- qt5-sensors
+- qt5-serialport
+- qt5-speech
+- qt5-svg
+- qt5-tools
+- qt5-translations
+- qt5-virtualkeyboard
+- qt5-x11extras
+- qt5-xmlpatterns
+- qt6ct
+- qtcreator
+- qtcreator-devel
+- ranger
+- rider
+- rofi
+- rsync
+- rtmidi
+- rygel
+- screen
+- showtime
+- simple-scan
+- sl
+- smartmontools
+- snap-pac
+- snapper
+- snapshot
+- sof-firmware
+- steam
+- sushi
+- swtpm
+- tecla
+- transmission-gtk
+- ttf-dejavu
+- ttf-firacode-nerd
+- ttf-liberation
+- tumbler
+- name: us.pixls.art.ART
+  type: flatpak
+- uwsm
+- ventoy-bin
+- visual-studio-code-bin
+- vulkan-intel
+- waybar
+- waypaper
+- wdisplays-git
+- wget
+- wifitui-bin
+- wine
+- wine-gecko
+- wine-installer
+- wine-mono
+- wine-nine
+- winetricks
+- wireless_tools
+- wiremix
+- wireplumber
+- wlogout
+- wlr-randr
+- wofi
+- wpa_supplicant
+- xclip
+- xdg-desktop-portal-gnome
+- xdg-desktop-portal-wlr
+- xdg-user-dirs-gtk
+- xdg-utils
+- xorg-server
+- xorg-xinit
+- yasm
+- yay
+- yay-debug
+- yelp
+- zram-generator
+- zsh
+exclude: []
+conflicts: []
+pre_install_hook: null
+post_install_hook: null
+hook_behavior: ask
