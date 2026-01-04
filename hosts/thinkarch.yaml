@@ -1,10 +1,20 @@
-# Host-specific packages for thinkarch
-# thinkarch laptop
-
-description: Packages specific to thinkarch
-
-# Packages to install only on this host
+host: thinkarch
+description: ''
+import: []
+enabled_modules:
+- cli-tools
 packages: []
-
-# Packages to exclude from base or modules on this host
 exclude: []
+additional_packages: []
+backup_tool: null
+snapper_config: root
+flatpak_scope: user
+auto_prune: false
+config_backups:
+  enabled: true
+  max_backups: 5
+services:
+  enabled: []
+  disabled: []
+editor: null
+aur_helper: null
