@@ -525,7 +525,7 @@
         "tooltipsEnabled": true
     },
     "wallpaper": {
-        "directory": "/home/mae/Images/wallpapers",
+        "directory": "/home/mae/.config/arch-config/wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
