@@ -14,6 +14,7 @@ description: dell laptop
 enabled_modules: [
   bdots-hypr,
   cli-tools,
+  dev,
 ]
 
 # Host-specific packages

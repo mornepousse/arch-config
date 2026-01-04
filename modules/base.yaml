@@ -13,3 +13,7 @@ packages:
   - htop
   - man-db
   - man-pages
+  - gtk3
+  - gtk4
+  - firefox
+  - gcc
