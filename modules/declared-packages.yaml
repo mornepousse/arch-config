@@ -1,9 +1,15 @@
 description: Packages installed via dcli install or dcli search commands
 packages:
 - github-cli
-- qt5-base 
+- qt5-base
 - tailscale
 - moonlight-qt
 - flatpak
 - github-desktop-bin
 - visual-studio-code-bin
+- ghostty
+- stlink-git
+- jre17-openjdk
+- jre-openjdk-headless
+- stm32cubemx
+- ncurses5-compat-libs

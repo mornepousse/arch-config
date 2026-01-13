@@ -145,6 +145,15 @@
                     "tooltipFormat": "HH:mm ddd, MMM dd",
                     "useCustomFont": false,
                     "usePrimaryColor": true
+                },
+                {
+                    "deviceNativePath": "",
+                    "displayMode": "onhover",
+                    "hideIfNotDetected": true,
+                    "id": "Battery",
+                    "showNoctaliaPerformance": false,
+                    "showPowerProfiles": false,
+                    "warningThreshold": 30
                 }
             ]
         }
@@ -351,7 +360,7 @@
         "bluetoothHideUnnamedDevices": false,
         "bluetoothRssiPollIntervalMs": 10000,
         "bluetoothRssiPollingEnabled": false,
-        "wifiDetailsViewMode": "grid",
+        "wifiDetailsViewMode": "list",
         "wifiEnabled": true
     },
     "nightLight": {
@@ -525,7 +534,7 @@
         "tooltipsEnabled": true
     },
     "wallpaper": {
-        "directory": "/home/mae/.config/arch-config/wallpapers",
+        "directory": "/home/mae/Pictures/Wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
