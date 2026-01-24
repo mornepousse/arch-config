@@ -19,6 +19,20 @@ packages:
   - tmux
   - visual-studio-code-bin
   - jetbrains-toolbox
-  
-
+  - cmake
+  - arm-none-eabi-gcc
+  - arm-none-eabi-newlib
+  - stlink-git
+  - jre17-openjdk
+  - jre-openjdk-headless
+  - stm32cubemx
+  - ncurses5-compat-libs
+  - jdk21-openjdk
+  - gperf
+  - python-setuptools
+  - python-wheel
+  - tk
+  - which
+  - github-desktop-bin
+  - visual-studio-code-bin
 conflicts: []

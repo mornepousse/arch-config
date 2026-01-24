@@ -154,6 +154,12 @@
                     "showNoctaliaPerformance": false,
                     "showPowerProfiles": false,
                     "warningThreshold": 30
+                },
+                {
+                    "defaultSettings": {
+                        "mode": "region"
+                    },
+                    "id": "plugin:screenshot"
                 }
             ]
         }
@@ -356,7 +362,7 @@
         "weatherShowEffects": true
     },
     "network": {
-        "bluetoothDetailsViewMode": "grid",
+        "bluetoothDetailsViewMode": "list",
         "bluetoothHideUnnamedDevices": false,
         "bluetoothRssiPollIntervalMs": 10000,
         "bluetoothRssiPollingEnabled": false,
@@ -534,7 +540,7 @@
         "tooltipsEnabled": true
     },
     "wallpaper": {
-        "directory": "/home/mae/Pictures/Wallpapers",
+        "directory": "/home/mae/Images/wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "fillColor": "#000000",
