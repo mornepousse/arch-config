@@ -1,12 +1,10 @@
 description: Development tools including IDEs and browsers
 
 packages: 
-  - code  
   - clang
   - cmake
   - ninja
   - gtk3
-  - libstdc++5
   - curl
   - git
   - unzip

@@ -10,7 +10,6 @@ hooks_behavior: once # or "always", "skip", "once" (default)
 
 # Optional: Explicit list of package files to load (empty = auto-discover)
 package_files:
-  - quickshells.yaml
   - hypr-packages.yaml
   - hypr-themes.yaml
   - dependencies.yaml

@@ -13,5 +13,7 @@ packages:
   - tela-icon-theme-purple-git # Tela purple icon theme
   - bibata-cursor-theme-bin # Bibata Modern Ice cursor theme
   - kvantum-theme-catppuccin-git
+  - waypaper
+  - rofi
 # Conflicts with other window managers
 conflicts: []

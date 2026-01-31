@@ -6,6 +6,8 @@ packages:
 - moonlight-qt
 - flatpak
 - ghostty
+- discord
+- btop
 exclude: []
 conflicts: []
 pre_install_hook: null

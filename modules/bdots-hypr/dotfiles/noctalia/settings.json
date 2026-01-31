@@ -160,6 +160,10 @@
                         "mode": "region"
                     },
                     "id": "plugin:screenshot"
+                },
+                {
+                    "displayMode": "onhover",
+                    "id": "WiFi"
                 }
             ]
         }

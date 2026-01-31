@@ -12,5 +12,8 @@ packages:
   - zed
   - fish
   - helix
+  - waybar
+  - bluetui
+  - wifitui  
 # Conflicts with other window managers
 conflicts: []
