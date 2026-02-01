@@ -15,5 +15,6 @@ packages:
   - waybar
   - bluetui
   - wifitui  
+  - hyprpaper
 # Conflicts with other window managers
 conflicts: []
