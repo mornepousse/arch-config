@@ -1,0 +1,8 @@
+last_updated: 2026-02-02T14:53:51.813798957Z
+scope: system
+apps:
+  terminal: kitty
+  text_editor: code
+  file_manager: code
+  browser: firefox
+custom_mime_types: {}
